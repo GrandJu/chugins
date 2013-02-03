@@ -13,5 +13,9 @@ For any help support or bug report:
 julien.saintmartin@googlemail.com
 
 
+I hope you will enjoy! Have Fun!
+Ju
+
+
 To do list:
 - Update VisualC++ project files: ibniz.dsw ibniz.dsp
